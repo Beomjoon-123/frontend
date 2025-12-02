@@ -72,7 +72,6 @@ const styles = {
         display: 'flex',
         alignItems: 'center'
     },
-    // 🚨 이미지 로고에 맞게 스타일 수정
     logoImage: {
         height: '100px',
         weight: 'auto'
